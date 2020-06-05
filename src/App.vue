@@ -1,14 +1,15 @@
 <template>
-  <div id="app">
-    <TheBall>8</TheBall>
-  </div>
+    <div id="app">
+        <TheMegaLandDealer/>
+    </div>
 </template>
 
 <script>
-  import TheBall from "./components/TheBall";
-  export default {
-    components: {TheBall}
-  }
+    import TheMegaLandDealer from "./components/TheMegaLandDealer";
+
+    export default {
+        components: {TheMegaLandDealer}
+    }
 </script>
 
 <style>
