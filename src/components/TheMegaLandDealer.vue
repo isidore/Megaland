@@ -22,7 +22,9 @@ const cards = [
   require("@/assets/images/card05.jpg"),
   require("@/assets/images/card06.jpg"),
   require("@/assets/images/card07.jpg"),
-  require("@/assets/images/card08.jpg")
+  require("@/assets/images/card08.jpg"),
+  require("@/assets/images/card09.jpg"),
+  require("@/assets/images/card10.jpg")
 ];
 
 export default {
